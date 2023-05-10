@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188298270386",
+    "project_id": "leavemanagerappnotification",
+    "storage_bucket": "leavemanagerappnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188298270386:android:4846d8072aeab33a1a5bab",
+        "android_client_info": {
+          "package_name": "com.officeanywhere.leavemanagerApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188298270386-ct0sqmqrs20ga5damhcdk0afr97113gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0-55bM_qtsGH3iu4jcLN7MKIqQS3_zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188298270386-ct0sqmqrs20ga5damhcdk0afr97113gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

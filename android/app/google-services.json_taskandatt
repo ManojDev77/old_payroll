@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733022116262",
+    "project_id": "taskandattendancenotification",
+    "storage_bucket": "taskandattendancenotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733022116262:android:f1a4accce5837aaee49767",
+        "android_client_info": {
+          "package_name": "com.officeanywhere.taskandattendanceApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733022116262-3afoeg5cpvvkmkct0c5i4g2ms90928o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4RraibycVptBeuEx9sUv_XZaqcx0wPcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733022116262-3afoeg5cpvvkmkct0c5i4g2ms90928o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713612792442",
+    "project_id": "fieldstaffmanager-3d561",
+    "storage_bucket": "fieldstaffmanager-3d561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713612792442:android:0ace14a9d0def5e83be1c3",
+        "android_client_info": {
+          "package_name": "com.officeanywhere.fieldstafftrackerApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713612792442-rdrskl5i7ghoddlc3rcs2njvt6sf0esa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGHl-VbgvMEuxxvkPcTzsf0S11K-nkGX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713612792442-rdrskl5i7ghoddlc3rcs2njvt6sf0esa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

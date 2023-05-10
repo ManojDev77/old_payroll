@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "248127439263",
+    "project_id": "appnotification-f2e8b",
+    "storage_bucket": "appnotification-f2e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248127439263:android:9c2fb0f968da9d78e0fdaa",
+        "android_client_info": {
+          "package_name": "com.officeanywhere.payrollApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248127439263-3ecc1s74pv772f3tkgmav4ae7fk07pn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsMOJe7rGR93oo1IGyKZNoo5YMI1j7coM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248127439263-3ecc1s74pv772f3tkgmav4ae7fk07pn1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248127439263-4silaqhdlt1pdq7o9akh97vhqtflii9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.officeanywhere.payrollAppp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

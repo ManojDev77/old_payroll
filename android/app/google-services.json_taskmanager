@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927588193514",
+    "project_id": "taskmanagerapp-10eae",
+    "storage_bucket": "taskmanagerapp-10eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927588193514:android:b8e47f95382ecca19fb393",
+        "android_client_info": {
+          "package_name": "com.officeanywhere.payrollApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927588193514-in4hok26u6b11bkk7apl4lpsm4tal34v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwB6LikJwbvgyMi4oSFEqfxRSgg_gioyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927588193514-in4hok26u6b11bkk7apl4lpsm4tal34v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
